@@ -1,4 +1,4 @@
-# Hi there, I'm Mariah Manetti 👋(She/Her)
+# Hi there, I'm Mariah Manetti 👋(Ela/Ella/She)
 
 I'm a web development student at Trybe, recently graduated in front-end. 
 Worked with Vue.js for the last 10 months, building web applications, improving existing ones and collaborated with team members to deliver high-quality products on time. I also implemented responsive design and accessibility features to improve user experience and optimized web applications for performance and scalability.
@@ -33,7 +33,7 @@ Worked with Vue.js for the last 10 months, building web applications, improving 
   
   ## Get in touch...
   <div>     
-  <a href = "mailto:mariah.manetti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/m-manetti-r" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mahnetti.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mahnetti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://instagram.com/mahnetti.code" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
 </div>
