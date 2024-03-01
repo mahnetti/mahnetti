@@ -1,6 +1,6 @@
 # Hi there, I'm Mariah Manetti 👋(Ela/Ella/She)
 
-I'm a web development student at Trybe, recently graduated in front-end. 
+I'm a web development student, recently graduated in front-end. 
 Worked with Vue.js for the last 10 months, building web applications, improving existing ones and collaborated with team members to deliver high-quality products on time. I also implemented responsive design and accessibility features to improve user experience and optimized web applications for performance and scalability.
 ## Languages I use:
 
